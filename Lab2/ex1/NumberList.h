@@ -1,9 +1,8 @@
-#pragma once
-
+#include <iostream>
 class NumberList {
 	int numbers[10];
 	int count;
-	static int pos; //pozitia in vector
+	int pos=0; //pozitia in vector
 public:
 	void Init();
 	bool Add(int x);
