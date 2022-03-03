@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ex1.cpp" />
+    <ClCompile Include="NumberList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="NumberList.h" />
