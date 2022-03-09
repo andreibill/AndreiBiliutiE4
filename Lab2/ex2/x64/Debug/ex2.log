@@ -1,3 +1,6 @@
 ﻿  ex2.cpp
-D:\Facultate\an1sem2\poo\AndreiBiliutiE4\Lab2\ex2\ex2.cpp(9,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Facultate\an1sem2\poo\AndreiBiliutiE4\Lab2\ex2\ex2.cpp(41,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Facultate\an1sem2\poo\AndreiBiliutiE4\Lab2\ex2\ex2.cpp(47,17): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Facultate\an1sem2\poo\AndreiBiliutiE4\Lab2\ex2\ex2.cpp(48,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Facultate\an1sem2\poo\AndreiBiliutiE4\Lab2\ex2\ex2.cpp(49,20): warning C4305: 'argument': truncation from 'double' to 'float'
   ex2.vcxproj -> D:\Facultate\an1sem2\poo\AndreiBiliutiE4\Lab2\ex2\x64\Debug\ex2.exe

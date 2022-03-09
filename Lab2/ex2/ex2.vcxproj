@@ -141,7 +141,6 @@
   <ItemGroup>
     <ClCompile Include="ex2.cpp" />
     <ClCompile Include="Student.cpp" />
-    <ClCompile Include="Student_Global.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Student.h" />
